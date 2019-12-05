@@ -98,7 +98,7 @@
         "font": "t-heading-3"
       }
     },
-    "rich-text#home3": {
+    "rich-text#home2": {
       "props": {
         "text": "Texto para Electronics",
         "textPosition": "CENTER",
