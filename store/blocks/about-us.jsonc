@@ -100,7 +100,7 @@
     },
     "rich-text#home2": {
       "props": {
-        "text": "Texto para Electronics",
+        "text": "Texto para Electronic s",
         "textPosition": "CENTER",
         "font": "t-heading-3"
       }
